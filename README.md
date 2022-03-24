@@ -1,6 +1,9 @@
 # NAVIGATION DAN ROUTE FLUTTER
 
-NIM   : 2031710128 <br /> Nama  : Achmed Yusuf <br /> Kelas : MI-2C <br /> Prodi  : D3-Manajemen Informatika
+NIM   : 2031710128 <br /> 
+Nama  : Achmed Yusuf <br /> 
+Kelas : MI-2C <br /> 
+Prodi : D3-Manajemen Informatika
 
 # Hasil Praktikum
 
